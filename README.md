@@ -28,4 +28,3 @@ Primary role as a back-end developer, but with extensive experience in multiple 
 ### AI Applications
  - Unsupervisioned training models
  - Generative AI APIs integration
- - n8n automations
